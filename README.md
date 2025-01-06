@@ -1,7 +1,7 @@
 # DA chocolat
 
 ## 📄 Description
-Entrainement d'un site web avec une DA très smooth ( j'appelle ça ce type chocolat ) c'est ma propre création.
+Entrainement d'un site web avec une DA très smooth ( j'appelle ce type chocolat ) c'est ma propre création.
 
 
 ## 🎥 Démo Visuelle

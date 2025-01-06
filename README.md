@@ -12,34 +12,24 @@ Entrainement d'un site web avec une DA très smooth ( j'appelle ça ce type choc
 ## ✨ Fonctionnalités!
 - Juste une DA smooth
 
-
 ## 🚀 Installation
-
 ### Prérequis
-- Liste des dépendances (Node.js, Python, etc.)
-- Instructions pour les installer.
+- installer nodejs
+- puis juste : "npm install" ( ça va installer toutes les dépendances nécessaires ) si l'installation ne fonctionne pas ce n'est pas grave vous pouvez toujours lancer le projet avec live server
 
 ### Étapes d'installation
-
 # Clonez le projet
-git clone https://github.com/utilisateur/projet.git
-
-# Accédez au répertoire
-cd projet
-
+git clone https://github.com/Hug0003/DA_chocolat.git
 # Installez les dépendances
-npm install  # ou pip install -r requirements.txt
-
+npm install (optionnelle)
 # Lancez le projet
-npm start  # ou python app.py
-
+1. npm run build:css (pour toutes modifications) 
+2. npm start
+   Si ça ne fonctionne pas : utiliser le live server
 
 ## 📚 Usage
-
-Expliquez comment utiliser le projet après installation.  
-Inclure des exemples de commandes ou captures d’écran.
-
-
+Explorez le site et de sa DA, tout en profitant des petits effets d'animations visuelles 
+(ux/ui) de ce site 
 
 ## 👥 Contributeurs
 
@@ -48,25 +38,12 @@ Inclure des exemples de commandes ou captures d’écran.
 ### Contribuer
 Les pull requests sont les bienvenues. Pour les changements majeurs, ouvrez une issue d'abord pour discuter de ce que vous souhaitez changer.  
 
-
-
-## ✅ Tests
-
-Instructions pour lancer les tests si le projet en contient :  
-
-
-# Lancer les tests
-npm test  # ou pytest
-
-
-
 ## 🛠️ Technologies Utilisées
 
-- Technologie 1  
-- Technologie 2  
-- Technologie 3  
-
-
+- HTML
+- SASS (CSS)
+- JS
+- JSON 
 
 ## 📬 Contact
 
@@ -74,3 +51,4 @@ Pour toute question, contactez-moi :
 - GitHub : [@monprofil](https://github.com/Hug0003)  
 - E-mail : hugomeuriel@gmail.com
 
+[@monprofil](https://github.com/Hug0003)  /2024

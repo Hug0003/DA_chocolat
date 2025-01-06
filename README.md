@@ -5,11 +5,11 @@ Entrainement d'un site web avec une DA très smooth ( j'appelle ça ce type choc
 
 
 ## 🎥 Démo Visuelle
-[Capture d'écran 2025-01-06 1](https://github.com/user-attachments/assets/bc82591b-490e-4595-931b-c1fd2b27a485)
+![Capture d'écran 2025-01-06 1](https://github.com/user-attachments/assets/bc82591b-490e-4595-931b-c1fd2b27a485)
 ![Capture d'écran 2025-01-06 2](https://github.com/user-attachments/assets/15a47f1c-bbba-439b-a0da-d009447f8b4c)
 
 
-## ✨ Fonctionnalités!
+## ✨ Fonctionnalités
 - Juste une DA smooth
 
 ## 🚀 Installation
